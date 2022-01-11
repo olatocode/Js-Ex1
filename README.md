@@ -1,3 +1,4 @@
 # Js-Ex1
- Js Solution
+ #Javascript Solution to 30 days of Javascript
+ 
 visit: https://olatocode.github.io/Js-Ex1/
